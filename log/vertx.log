@@ -1,0 +1,12 @@
+2018-06-14 23:02:37:492 INFO  TestMyController - {
+  "longitud" : 3
+}
+2018-06-14 23:04:32:612 INFO  TestMyController - {
+  "longitud" : 3
+}
+2018-06-14 23:05:09:157 INFO  TestMyController - {
+  "longitud" : 3
+}
+2018-06-14 23:05:33:360 INFO  TestMyController - {
+  "longitud" : 3
+}
