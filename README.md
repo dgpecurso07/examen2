@@ -48,7 +48,7 @@ Ingresamos al menú Infrastructure > Hosts y podemos ver los contenedore con el 
 
 Para probar hay que verificar en la ip de que contenedor quedo el balanceador y acceder por un navegador de la siguiente manera:
 
-http://<ipbalanceador>:10001/api/factorial?num=5
+http://ipbalanceador:10001/api/factorial?num=5
 
 
 
