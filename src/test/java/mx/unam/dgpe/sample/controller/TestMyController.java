@@ -10,7 +10,7 @@ import static mx.unam.dgpe.sample.controller.RestUtil.*;
 public class TestMyController extends AbstractVerticle {
     private static final Logger logger = Logger.getLogger(TestMyController.class);
     
-    @Test
+    //@Test
     public void ok() throws Exception {
         //Se debe configurar ip y puerto para que test funcione correctamente
 
