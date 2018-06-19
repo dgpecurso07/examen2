@@ -66,7 +66,7 @@ public class MyController extends AbstractVerticle {
     private String procesa(int longitud) {
         
         Map<Object, Object> info = new HashMap<>();
-        info.put("longitud", longitud);
+        info.put("lonjitud", longitud);
 
         return Json.encodePrettily(info);
     }
